@@ -1,0 +1,116 @@
+.profile{
+width:180px;
+border-radius:100px;
+
+}
+.image{
+display:inline-block;
+vertical-align:top;
+
+}
+.dprofile{
+display:inline-block;
+vertical-align:top;
+margin-top:80px;
+margin-left:300px;
+margin-bottom:50px;
+
+
+}
+.dinfo{
+ display:inline-block;
+  vertical-align:top;
+  margin-left:50px;
+  
+  
+}
+.dbuttons{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-bottom:30px;
+}
+  
+
+
+
+.fa-instagram{
+  font-size:50px;
+  margin-right:50px;
+  cursor:pointer;
+  transition:margin 0.5s;
+
+}
+.fa-instagram:active{
+  margin-top:3px;
+   margin-left:3px;
+}
+
+.fa-facebook{
+  font-size:50px;
+  margin-right:50px;
+  cursor:pointer;
+  transition:margin 0.5s;
+
+}
+.fa-facebook:active{
+margin-top:3px;
+   margin-left:3px;}
+
+.fa-images{
+  font-size:50px;
+  margin-right:50px;
+  cursor:pointer;
+  transition:margin 0.5s,;
+
+}
+.fa-images:active{
+margin-top:3px;
+   margin-left:3px;}
+
+.fa-circle-info{
+  font-size:50px;
+  margin-right:50px;
+  cursor:pointer;
+  transition:margin 0.5s;
+
+
+}
+.fa-circle-info:active{
+  margin-top:3px;
+   margin-left:3px;}
+
+   .of{
+    font-size:60px;
+    margin-right:50px;
+    cursor:pointer;
+    transition:margin 0.5s;
+
+   }
+   .of:active{
+    margin-top:3px;
+   margin-left:3px;
+
+   }
+
+   .funfact{
+    font-family:arial;
+    font-weight:bold;
+    font-size:70px;
+    color:rgb(0, 0, 0,0.9);
+
+   }
+   .dfunfact{
+   display:flex;
+   justify-content:center;
+   align-items:center;
+  margin-top:150px;
+   }
+   .Funfacto{
+color:black;
+
+   }
+
+    
+    
+ 
